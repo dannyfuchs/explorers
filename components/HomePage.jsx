@@ -16,7 +16,7 @@ var HomePage = React.createClass({
             <div className="jumbotron">
               <div className="container">
                 <h1>Welcome!</h1>
-                <p>At DCP we've been hard at work creating the next generation of data and map products.  Click the links below to explore.</p>
+                <p>At DCP we've been hard at work creating the next generation of data and map products to support data-driven capital planning and interagency coordination across NYC.  Click the links below to explore.</p>
                 <p><a className="btn btn-primary btn-lg" href="#" role="button">Explore »</a></p>
               </div>
             </div>
